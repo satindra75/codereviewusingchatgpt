@@ -1,0 +1,15 @@
+C:\satsinhawa\FHL\codereviewusingchatgpt\automatedcodereview\automatedcodereview\bin\Debug\net6.0\automatedcodereview.exe
+C:\satsinhawa\FHL\codereviewusingchatgpt\automatedcodereview\automatedcodereview\bin\Debug\net6.0\automatedcodereview.deps.json
+C:\satsinhawa\FHL\codereviewusingchatgpt\automatedcodereview\automatedcodereview\bin\Debug\net6.0\automatedcodereview.runtimeconfig.json
+C:\satsinhawa\FHL\codereviewusingchatgpt\automatedcodereview\automatedcodereview\bin\Debug\net6.0\automatedcodereview.dll
+C:\satsinhawa\FHL\codereviewusingchatgpt\automatedcodereview\automatedcodereview\bin\Debug\net6.0\automatedcodereview.pdb
+C:\satsinhawa\FHL\codereviewusingchatgpt\automatedcodereview\automatedcodereview\obj\Debug\net6.0\automatedcodereview.csproj.AssemblyReference.cache
+C:\satsinhawa\FHL\codereviewusingchatgpt\automatedcodereview\automatedcodereview\obj\Debug\net6.0\automatedcodereview.GeneratedMSBuildEditorConfig.editorconfig
+C:\satsinhawa\FHL\codereviewusingchatgpt\automatedcodereview\automatedcodereview\obj\Debug\net6.0\automatedcodereview.AssemblyInfoInputs.cache
+C:\satsinhawa\FHL\codereviewusingchatgpt\automatedcodereview\automatedcodereview\obj\Debug\net6.0\automatedcodereview.AssemblyInfo.cs
+C:\satsinhawa\FHL\codereviewusingchatgpt\automatedcodereview\automatedcodereview\obj\Debug\net6.0\automatedcodereview.csproj.CoreCompileInputs.cache
+C:\satsinhawa\FHL\codereviewusingchatgpt\automatedcodereview\automatedcodereview\obj\Debug\net6.0\automatedcodereview.dll
+C:\satsinhawa\FHL\codereviewusingchatgpt\automatedcodereview\automatedcodereview\obj\Debug\net6.0\refint\automatedcodereview.dll
+C:\satsinhawa\FHL\codereviewusingchatgpt\automatedcodereview\automatedcodereview\obj\Debug\net6.0\automatedcodereview.pdb
+C:\satsinhawa\FHL\codereviewusingchatgpt\automatedcodereview\automatedcodereview\obj\Debug\net6.0\automatedcodereview.genruntimeconfig.cache
+C:\satsinhawa\FHL\codereviewusingchatgpt\automatedcodereview\automatedcodereview\obj\Debug\net6.0\ref\automatedcodereview.dll

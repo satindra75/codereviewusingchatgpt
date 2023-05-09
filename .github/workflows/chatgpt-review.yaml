@@ -1,6 +1,6 @@
 on:
   pull_request:
-    types: [opened, synchronize]
+    types: [opened, synchronize, review_requested]
 
 jobs:
   hello_world_job:

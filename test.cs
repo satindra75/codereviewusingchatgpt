@@ -38,29 +38,4 @@ namespace Algorithm.DesignPattern
             return adaptee[adaptee.Count - 1];
         }
     }
-
-    class ClassAdapter<T> : List<T>, IQueue<T>
-    {
-        public void push(T val)
-        {
-            push(val);
-        }
-
-        public T pop()
-        {
-            T val = this[Count - 1];
-            RemoveAt(Count - 1);
-            return val;
-        }
-
-        public T peekAtFirst()
-        {
-            return this[0];
-        }
-
-        public T peekAtLast()
-        {
-            return this[Count - 1];
-        }
-    }
 }

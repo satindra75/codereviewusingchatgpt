@@ -1,2 +1,2 @@
 # codereviewusingchatgpt
-Experimenting automated code review using ChatGPT
+Experimenting automated code review using ChatGPT validate

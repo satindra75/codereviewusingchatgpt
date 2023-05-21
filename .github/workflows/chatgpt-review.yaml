@@ -3,7 +3,7 @@ on:
     types: [opened, synchronize, review_requested]
 
 jobs:
-  hello_world_job:
+  pr_review_job:
     runs-on: ubuntu-latest
     name: ChatGPT review code
     steps:
